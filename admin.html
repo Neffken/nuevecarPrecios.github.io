@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nueve Car — Admin (modo local)</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header>
+  <div class="container">
+    <div class="brand">
+      <div class="logo" aria-hidden="true"></div>
+      <div>
+        <h1>Admin — Nueve Car (modo local)</h1>
+        <div class="sub">Agregar/editar items y exportar JSON para subir a GitHub</div>
+      </div>
+      <div style="margin-left:auto;display:flex;gap:10px;align-items:center">
+        <a class="pill" href="index.html">← Volver</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="notice small">
+    ⚠️ Importante: GitHub Pages no permite guardar cambios en el servidor (no hay “base de datos”).
+    Este panel sirve para que carguen items y luego descarguen el <code>inventory.json</code> actualizado para commitearlo al repo.
+  </div>
+
+  <div class="card" style="margin-top:16px">
+    <div class="body">
+      <h2 class="title">Nuevo item</h2>
+      <div class="toolbar">
+        <input id="name" placeholder="Nombre (ej. Honda Wave)" />
+        <input id="category" placeholder="Categoría (ej. Motos 0km)" />
+        <input id="price" placeholder="Precio (ej. 1500000 o 1.800.000-2.000.000)" />
+        <select id="currency">
+          <option value="ARS">ARS</option>
+          <option value="USD">USD</option>
+        </select>
+        <input id="photo" placeholder="Foto (link Drive o URL)" />
+        <input id="model" placeholder="Modelo / Año (opcional)" />
+        <input id="extra1" placeholder="Extra (ej. Cilindrada 110)" />
+        <button id="add" class="primary" type="button">Agregar</button>
+      </div>
+      <p class="small">Tip: si pegás un link de Drive tipo <code>/d/ID/</code>, lo convertimos a link directo.</p>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:12px">
+    <div class="body">
+      <h2 class="title">Items cargados (en este navegador)</h2>
+      <div class="toolbar">
+        <input id="q" placeholder="Buscar para editar/borrar…" />
+        <button id="export" class="primary" type="button">Exportar inventory.json</button>
+        <button id="reset" class="ghost" type="button">Resetear (volver al original)</button>
+      </div>
+      <div id="list" style="margin-top:12px"></div>
+    </div>
+  </div>
+
+  <p class="small" style="margin-top:16px">Luego reemplazá el archivo <code>data/inventory.json</code> del repo por el exportado y hacé commit/push.</p>
+</main>
+
+<script src="assets/admin.js"></script>
+</body>
+</html>

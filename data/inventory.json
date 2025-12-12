@@ -1,0 +1,658 @@
+{
+  "agency": "Nueve Car",
+  "generated_from": "Inventario Precios .xlsx",
+  "items": [
+    {
+      "id": "item-1",
+      "category": "Motos 0km",
+      "name": "Keller",
+      "price": {
+        "raw": "2.000.000-1.900.000-1.700.000",
+        "currency": "ARS",
+        "values": [
+          2000000,
+          1900000,
+          1700000
+        ],
+        "min": 1700000,
+        "max": 2000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=11m34qPOAUVTHRjLJ5Nj4nOJNJP6kTfhR",
+      "Cilindrada": "110",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-2",
+      "category": "Motos 0km",
+      "name": "Honda wave",
+      "price": {
+        "raw": "4.000.000.000-4.300.000-4.500.000",
+        "currency": "ARS",
+        "values": [
+          4000000000,
+          4300000,
+          4500000
+        ],
+        "min": 4300000,
+        "max": 4000000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1L9S8pfQAIJdn81DpkBwcRCC9_1jStnRS",
+      "Cilindrada": "110",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-3",
+      "category": "Motos 0km",
+      "name": "Zanella ZB",
+      "price": {
+        "raw": "1.800.000-2.000.000",
+        "currency": "ARS",
+        "values": [
+          1800000,
+          2000000
+        ],
+        "min": 1800000,
+        "max": 2000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1JreSF0T73VcaWche1xWRP0qkdCVh8pUI",
+      "Cilindrada": "110",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-4",
+      "category": "Motos 0km",
+      "name": "Zanella ZT",
+      "price": {
+        "raw": "3.800.000-4.000.000-4.200.000-2.900.000",
+        "currency": "ARS",
+        "values": [
+          3800000,
+          4000000,
+          4200000,
+          2900000
+        ],
+        "min": 2900000,
+        "max": 4200000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1S8CmbQKOGE-yBWoBrcSpn9uZ8Cn2cmXo",
+      "Cilindrada": "150",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-5",
+      "category": "Motos 0km",
+      "name": "Beta",
+      "price": {
+        "raw": "4.800.000-5.200.000",
+        "currency": "ARS",
+        "values": [
+          4800000,
+          5200000
+        ],
+        "min": 4800000,
+        "max": 5200000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1fi5Lex75qGVxfHyDbiafl81s_wtBmpUl",
+      "Cilindrada": "150",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-6",
+      "category": "Motos 0km",
+      "name": "Mondial",
+      "price": {
+        "raw": "2.400.000-2.800.000",
+        "currency": "ARS",
+        "values": [
+          2400000,
+          2800000
+        ],
+        "min": 2400000,
+        "max": 2800000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1hxcMXPsOkEUUy8LcFcerDsu805PO-mus",
+      "Cilindrada": "110",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-7",
+      "category": "Motos 0km",
+      "name": "Gilera SMASH R",
+      "price": {
+        "raw": "3150000",
+        "currency": "ARS",
+        "values": [
+          3150000
+        ],
+        "min": 3150000,
+        "max": 3150000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1DVZLRcimUaLely8am2i-UEU3d20HWRpr",
+      "Cilindrada": "110",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-8",
+      "category": "Motos 0km",
+      "name": "Gaf GX",
+      "price": {
+        "raw": "3624810",
+        "currency": "ARS",
+        "values": [
+          3624810
+        ],
+        "min": 3624810,
+        "max": 3624810
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=17MbTljjD1h7zPKmPrNGE3GrRrFhEq3sg",
+      "Cilindrada": "70",
+      "Modelo": "2025"
+    },
+    {
+      "id": "item-9",
+      "category": "Motos usadas",
+      "name": "Zanella ZB",
+      "price": {
+        "raw": "1500000",
+        "currency": "ARS",
+        "values": [
+          1500000
+        ],
+        "min": 1500000,
+        "max": 1500000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1rWZ8TpqgsFdwomD4C0LmX1xVkrGHYKBo",
+      "Modelo": "2024",
+      "Cilindrada": "110"
+    },
+    {
+      "id": "item-10",
+      "category": "Motos usadas",
+      "name": "Motomel SKUA",
+      "price": {
+        "raw": "2.800.000-2.300.000",
+        "currency": "ARS",
+        "values": [
+          2800000,
+          2300000
+        ],
+        "min": 2300000,
+        "max": 2800000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1Thl8jPG2LFNSBRVhasmLJbA3ETIfxI0O",
+      "Modelo": "2022",
+      "Cilindrada": "150"
+    },
+    {
+      "id": "item-11",
+      "category": "Motos usadas",
+      "name": "Corven TXR",
+      "price": {
+        "raw": "4.500.000-5.000.000",
+        "currency": "ARS",
+        "values": [
+          4500000,
+          5000000
+        ],
+        "min": 4500000,
+        "max": 5000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=15Tx4MUK-oE8hHVkXVS1kuHqP48_mA-_I",
+      "Modelo": "2017",
+      "Cilindrada": "250"
+    },
+    {
+      "id": "item-12",
+      "category": "Motos usadas",
+      "name": "TVS RTR",
+      "price": {
+        "raw": "2.000.000-2.500.000",
+        "currency": "ARS",
+        "values": [
+          2000000,
+          2500000
+        ],
+        "min": 2000000,
+        "max": 2500000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1j3xmMkmznzgUqXoEkZkCjfpgjDa64vy2",
+      "Modelo": "2020",
+      "Cilindrada": "160"
+    },
+    {
+      "id": "item-13",
+      "category": "Motos usadas",
+      "name": "Zanella ZB tunning",
+      "price": {
+        "raw": "2.450.000-2.100.000",
+        "currency": "ARS",
+        "values": [
+          2450000,
+          2100000
+        ],
+        "min": 2100000,
+        "max": 2450000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1VTeTloVYkYNMcnBHkbdrthm8d5BK1n-u",
+      "Modelo": "2025",
+      "Cilindrada": "110"
+    },
+    {
+      "id": "item-14",
+      "category": "Bicicletas",
+      "name": "BICI DE PASEO",
+      "price": {
+        "raw": "180000-200.000",
+        "currency": "ARS",
+        "values": [
+          180000,
+          200000
+        ],
+        "min": 180000,
+        "max": 200000
+      },
+      "photo": "",
+      "RODADO": "26"
+    },
+    {
+      "id": "item-15",
+      "category": "Bicicletas",
+      "name": "Bicicleta rydetech",
+      "price": {
+        "raw": "350000",
+        "currency": "ARS",
+        "values": [
+          350000
+        ],
+        "min": 350000,
+        "max": 350000
+      },
+      "photo": "",
+      "RODADO": "29"
+    },
+    {
+      "id": "item-16",
+      "category": "Bicicletas",
+      "name": "Bicicleta Nordic",
+      "price": {
+        "raw": "290000",
+        "currency": "ARS",
+        "values": [
+          290000
+        ],
+        "min": 290000,
+        "max": 290000
+      },
+      "photo": "",
+      "RODADO": "29"
+    },
+    {
+      "id": "item-17",
+      "category": "Cascos",
+      "name": "Casco H5",
+      "price": {
+        "raw": "60.000-55.000",
+        "currency": "ARS",
+        "values": [
+          60000,
+          55000
+        ],
+        "min": 55000,
+        "max": 60000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1w5m5lOzfk86THIOr916dT0-d1Fx93NgB",
+      "Niño/adulto": "Adulto/Niño",
+      "Stock": "7"
+    },
+    {
+      "id": "item-18",
+      "category": "Cascos",
+      "name": "Casco Mac basico",
+      "price": {
+        "raw": "350.000-300.000",
+        "currency": "ARS",
+        "values": [
+          350000,
+          300000
+        ],
+        "min": 300000,
+        "max": 350000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1Oz1yEeMyFXL7z_N_5fExKkzB7gDvRBGj",
+      "Niño/adulto": "Adulto",
+      "Stock": "3"
+    },
+    {
+      "id": "item-19",
+      "category": "Cascos",
+      "name": "Casco CID",
+      "price": {
+        "raw": "150.000-140.000",
+        "currency": "ARS",
+        "values": [
+          150000,
+          140000
+        ],
+        "min": 140000,
+        "max": 150000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1_OGV79rgr-nHYrIXB3Jk11mQ5YMOozAn",
+      "Niño/adulto": "Adulto",
+      "Stock": "1"
+    },
+    {
+      "id": "item-20",
+      "category": "Cascos",
+      "name": "Casco MAC Revatible",
+      "price": {
+        "raw": "400.000-380.000",
+        "currency": "ARS",
+        "values": [
+          400000,
+          380000
+        ],
+        "min": 380000,
+        "max": 400000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1A32MGn6Ah-CUV_3dTKF-pad3b1LcivSl",
+      "Niño/adulto": "Adulto",
+      "Stock": "1"
+    },
+    {
+      "id": "item-21",
+      "category": "Cascos",
+      "name": "Casco Mac diseño",
+      "price": {
+        "raw": "350.000-380.000",
+        "currency": "ARS",
+        "values": [
+          350000,
+          380000
+        ],
+        "min": 350000,
+        "max": 380000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1-ZcM5YAv88UCL7k5TG9V-W6Jxq46EEFx",
+      "Niño/adulto": "Adulto",
+      "Stock": "5"
+    },
+    {
+      "id": "item-22",
+      "category": "Cascos",
+      "name": "Casco L52 STROKE",
+      "price": {
+        "raw": "300.000-350.000",
+        "currency": "ARS",
+        "values": [
+          300000,
+          350000
+        ],
+        "min": 300000,
+        "max": 350000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1WbDQ6xtd1Af5N3oWcOv5FlLUpd7VT6q0",
+      "Niño/adulto": "Adulto",
+      "Stock": "7"
+    },
+    {
+      "id": "item-23",
+      "category": "Cascos",
+      "name": "Casco NZI (ANTIPARRAS)",
+      "price": {
+        "raw": "270.000-300.000",
+        "currency": "ARS",
+        "values": [
+          270000,
+          300000
+        ],
+        "min": 270000,
+        "max": 300000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1g0EgPg7XXUAaEiwSnDRb0IEasOSCx90j",
+      "Niño/adulto": "Adulto",
+      "Stock": "8"
+    },
+    {
+      "id": "item-24",
+      "category": "Cascos",
+      "name": "Casco L52 revatible",
+      "price": {
+        "raw": "1.000.000-1.200.000",
+        "currency": "ARS",
+        "values": [
+          1000000,
+          1200000
+        ],
+        "min": 1000000,
+        "max": 1200000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=10fIcM94d6IYRgFwVgCr7iqI5wgdLZiAp",
+      "Niño/adulto": "Adulto",
+      "Stock": "1"
+    },
+    {
+      "id": "item-25",
+      "category": "Cascos",
+      "name": "Casco H5 Comunes(medio casco)",
+      "price": {
+        "raw": "",
+        "currency": "ARS",
+        "values": [],
+        "min": null,
+        "max": null
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1NjhiWnoGs51wsC4lMZJFPWs6XKSK_zlu",
+      "Niño/adulto": "Adulto",
+      "Stock": "1"
+    },
+    {
+      "id": "item-26",
+      "category": "Autos usados",
+      "name": "Golf",
+      "price": {
+        "raw": "11.500.000-9.500.000",
+        "currency": "ARS",
+        "values": [
+          11500000,
+          9500000
+        ],
+        "min": 9500000,
+        "max": 11500000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1ZfuiT_6RbT0Kah0ahirXFYpcjywxam-s",
+      "Modelo": "2008",
+      "Motor": "1.6",
+      "NAFTA/GAS/GASOI": "Nafta"
+    },
+    {
+      "id": "item-27",
+      "category": "Autos usados",
+      "name": "JEEP",
+      "price": {
+        "raw": "12.500 Dolares",
+        "currency": "USD",
+        "values": [
+          12500
+        ],
+        "min": 12500,
+        "max": 12500
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1BjCjRt0mAAT6qEfANhKU97b--4U-zsSn",
+      "Modelo": "2012",
+      "Motor": "2.4",
+      "NAFTA/GAS/GASOI": "Nafta",
+      "Kilometros": "180000"
+    },
+    {
+      "id": "item-28",
+      "category": "Autos usados",
+      "name": "Chevrolet CORSA",
+      "price": {
+        "raw": "8.800.000-8.500.000",
+        "currency": "ARS",
+        "values": [
+          8800000,
+          8500000
+        ],
+        "min": 8500000,
+        "max": 8800000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1-8GpiA9-7HOl5h_GvboGjlI7I3Pv5aPz",
+      "Modelo": "2005",
+      "Motor": "1.8"
+    },
+    {
+      "id": "item-29",
+      "category": "Autos usados",
+      "name": "Peugeot 207",
+      "price": {
+        "raw": "12.000.000-11.500.000-9.500.000",
+        "currency": "ARS",
+        "values": [
+          12000000,
+          11500000,
+          9500000
+        ],
+        "min": 9500000,
+        "max": 12000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1-TqJ8jkHsZsItINUh-1JrNVeO5kXL6p0",
+      "Modelo": "2011",
+      "Motor": "1.6",
+      "NAFTA/GAS/GASOI": "Nafta"
+    },
+    {
+      "id": "item-30",
+      "category": "Autos usados",
+      "name": "Chevrolet CORSA",
+      "price": {
+        "raw": "8.800.000-8.500.000",
+        "currency": "ARS",
+        "values": [
+          8800000,
+          8500000
+        ],
+        "min": 8500000,
+        "max": 8800000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1oIa_hB0iCcEcWhHmqDfoq0qUnnWUbepy",
+      "Modelo": "2008",
+      "Motor": "1.8",
+      "NAFTA/GAS/GASOI": "Nafta/GAS"
+    },
+    {
+      "id": "item-31",
+      "category": "Autos usados",
+      "name": "Fiat uno",
+      "price": {
+        "raw": "4.200.000-4.500.000-5.000.000",
+        "currency": "ARS",
+        "values": [
+          4200000,
+          4500000,
+          5000000
+        ],
+        "min": 4200000,
+        "max": 5000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1qgyOPSl0sZfLhL4SrI_FaHWyJR2Agp15",
+      "Modelo": "1998",
+      "Motor": "1.4"
+    },
+    {
+      "id": "item-32",
+      "category": "Autos usados",
+      "name": "Golf GL",
+      "price": {
+        "raw": "4.200.000-4.500.000-5.000.000",
+        "currency": "ARS",
+        "values": [
+          4200000,
+          4500000,
+          5000000
+        ],
+        "min": 4200000,
+        "max": 5000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1M0o3YneYZvzJdwZ6_rpMWwgIoXxRCq_0",
+      "Modelo": "1996",
+      "Motor": "1.8"
+    },
+    {
+      "id": "item-33",
+      "category": "Autos usados",
+      "name": "volkswagen POLO classic",
+      "price": {
+        "raw": "4.200.000-4.500.000-5.000.000",
+        "currency": "ARS",
+        "values": [
+          4200000,
+          4500000,
+          5000000
+        ],
+        "min": 4200000,
+        "max": 5000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1WALswQvdAlDLh2ZM0ve6XsBzL0M0tvaM",
+      "Modelo": "1997",
+      "Motor": "1.6"
+    },
+    {
+      "id": "item-34",
+      "category": "Autos usados",
+      "name": "FIAT PALIO",
+      "price": {
+        "raw": "4.200.000-4.500.000-5.000.000",
+        "currency": "ARS",
+        "values": [
+          4200000,
+          4500000,
+          5000000
+        ],
+        "min": 4200000,
+        "max": 5000000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1EcMQK8mPXpXb7HjIf4KsXj54X3Cm-wDZ",
+      "Modelo": "2001",
+      "Motor": "1.6",
+      "NAFTA/GAS/GASOI": "Nafta"
+    },
+    {
+      "id": "item-35",
+      "category": "Autos usados",
+      "name": "Chevrolet AGILE",
+      "price": {
+        "raw": "12500000-11.500.000",
+        "currency": "ARS",
+        "values": [
+          12500000,
+          11500000
+        ],
+        "min": 11500000,
+        "max": 12500000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1jdAy0jkr2V4DndVMwEsetNJ_xpQaK0mM",
+      "Modelo": "2011",
+      "Motor": "1.4",
+      "NAFTA/GAS/GASOI": "Nafta"
+    },
+    {
+      "id": "item-36",
+      "category": "Autos usados",
+      "name": "FORD ESCORT RURAL",
+      "price": {
+        "raw": "3.500.000-4.500.000",
+        "currency": "ARS",
+        "values": [
+          3500000,
+          4500000
+        ],
+        "min": 3500000,
+        "max": 4500000
+      },
+      "photo": "https://drive.google.com/uc?export=view&id=1lo4ix0ROTvy1iFfFtJUWNsHjNDmO8Ci0",
+      "Modelo": "1999",
+      "Motor": "1.8"
+    }
+  ]
+}

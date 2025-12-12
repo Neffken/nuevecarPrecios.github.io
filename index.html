@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nueve Car — Lista de precios</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header>
+  <div class="container">
+    <div class="brand">
+      <div class="logo" aria-hidden="true"></div>
+      <div>
+        <h1>Nueve Car — Lista de precios</h1>
+        <div class="sub">Catálogo público (GitHub Pages) · buscador + filtros</div>
+      </div>
+      <div style="margin-left:auto;display:flex;gap:10px;align-items:center">
+        <a class="pill" href="admin.html" title="Agregar / editar (modo local)">Admin</a>
+      </div>
+    </div>
+
+    <div class="toolbar" role="search">
+      <input id="q" placeholder="Buscar: ej. 'Wave', 'Golf', '250', 'rodado 29'…" autocomplete="off" />
+      <select id="category">
+        <option value="">Todas las categorías</option>
+      </select>
+      <select id="currency">
+        <option value="">Moneda: todas</option>
+        <option value="ARS">ARS</option>
+        <option value="USD">USD</option>
+      </select>
+      <select id="sort">
+        <option value="relevance">Orden: relevancia</option>
+        <option value="price_asc">Precio: menor a mayor</option>
+        <option value="price_desc">Precio: mayor a menor</option>
+        <option value="name_asc">Nombre: A → Z</option>
+      </select>
+      <button id="clear" class="ghost" type="button">Limpiar</button>
+    </div>
+
+    <div class="pills" id="stats"></div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="notice small">
+    Tip: usá <kbd>Ctrl</kbd> + <kbd>F</kbd> para buscar en la página, o el buscador de arriba para filtrar por categoría y precio.
+  </div>
+  <div class="grid" id="grid" aria-live="polite"></div>
+  <p class="small" style="margin-top:16px">Datos cargados desde <code>data/inventory.json</code>. Fotos: enlaces de Drive (si están disponibles).</p>
+</main>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
