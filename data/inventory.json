@@ -3,6 +3,23 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1765561817926",
+      "name": "Bicicleta Gravity",
+      "category": "Bicicletas",
+      "photo": "/assets/img/bicicletagravity.jpeg",
+      "price": {
+        "raw": "400.000",
+        "currency": "ARS",
+        "values": [
+          400000
+        ],
+        "min": 400000,
+        "max": 400000
+      },
+      "Modelo": "2025",
+      "Extra": "29"
+    },
+    {
       "id": "item-1",
       "category": "Motos 0km",
       "name": "Keller",
@@ -17,7 +34,7 @@
         "min": 1700000,
         "max": 2000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=11m34qPOAUVTHRjLJ5Nj4nOJNJP6kTfhR",
+      "photo": "/assets/img/keller.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -36,7 +53,7 @@
         "min": 4300000,
         "max": 4000000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1L9S8pfQAIJdn81DpkBwcRCC9_1jStnRS",
+      "photo": "assets/img/WhatsApp Image 2025-12-06 at 7.24.00 PM.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -74,7 +91,7 @@
         "min": 2900000,
         "max": 4200000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1S8CmbQKOGE-yBWoBrcSpn9uZ8Cn2cmXo",
+      "photo": "/assets/img/zanellazt.jpeg",
       "Cilindrada": "150",
       "Modelo": "2025"
     },
@@ -92,7 +109,7 @@
         "min": 4800000,
         "max": 5200000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1fi5Lex75qGVxfHyDbiafl81s_wtBmpUl",
+      "photo": "/assets/img/beta.jpeg",
       "Cilindrada": "150",
       "Modelo": "2025"
     },
@@ -110,7 +127,7 @@
         "min": 2400000,
         "max": 2800000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1hxcMXPsOkEUUy8LcFcerDsu805PO-mus",
+      "photo": "/assets/img/mondial.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -127,7 +144,7 @@
         "min": 3150000,
         "max": 3150000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1DVZLRcimUaLely8am2i-UEU3d20HWRpr",
+      "photo": "/assets/img/gilerasmashfull.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -144,7 +161,7 @@
         "min": 3624810,
         "max": 3624810
       },
-      "photo": "https://drive.google.com/uc?export=view&id=17MbTljjD1h7zPKmPrNGE3GrRrFhEq3sg",
+      "photo": "/assets/img/gafgx.jpeg",
       "Cilindrada": "70",
       "Modelo": "2025"
     },
