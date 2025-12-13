@@ -3,6 +3,60 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1765632066548",
+      "name": "Corven TRIAX",
+      "category": "Motos 0km",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/corventriax.jpeg",
+      "price": {
+        "raw": "3.500.000-3.200.000",
+        "currency": "ARS",
+        "values": [
+          3500000,
+          3200000
+        ],
+        "min": 3200000,
+        "max": 3500000
+      },
+      "Modelo": "2026",
+      "Extra": "110"
+    },
+    {
+      "id": "item-1765631072496",
+      "name": "Zanella ZB BASE",
+      "category": "Motos 0km",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/zanellazb2026.jpeg",
+      "price": {
+        "raw": "2.000.000-2.300.000",
+        "currency": "ARS",
+        "values": [
+          2000000,
+          2300000
+        ],
+        "min": 2000000,
+        "max": 2300000
+      },
+      "Modelo": "2026",
+      "Extra": "110"
+    },
+    {
+      "id": "item-1765630948683",
+      "name": "Keller FULL",
+      "category": "Motos 0km",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/kellerfull.jpeg",
+      "price": {
+        "raw": "2.300.000-2.600.000",
+        "currency": "ARS",
+        "values": [
+          2300000,
+          2600000
+        ],
+        "min": 2300000,
+        "max": 2600000
+      },
+      "Modelo": "2026",
+      "Extra": "110"
+    },
+    {
       "id": "item-1765561817926",
       "name": "Bicicleta Gravity",
       "category": "Bicicletas",
@@ -178,7 +232,7 @@
         "min": 1500000,
         "max": 1500000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1rWZ8TpqgsFdwomD4C0LmX1xVkrGHYKBo",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/zanellaazbusada.jpeg",
       "Modelo": "2024",
       "Cilindrada": "110"
     },
@@ -196,7 +250,7 @@
         "min": 2300000,
         "max": 2800000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1Thl8jPG2LFNSBRVhasmLJbA3ETIfxI0O",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/motomelskua.jpeg",
       "Modelo": "2022",
       "Cilindrada": "150"
     },
@@ -214,7 +268,7 @@
         "min": 4500000,
         "max": 5000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=15Tx4MUK-oE8hHVkXVS1kuHqP48_mA-_I",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/txr.jpeg",
       "Modelo": "2017",
       "Cilindrada": "250"
     },
@@ -232,7 +286,7 @@
         "min": 2000000,
         "max": 2500000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1j3xmMkmznzgUqXoEkZkCjfpgjDa64vy2",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/tvs.jpeg",
       "Modelo": "2020",
       "Cilindrada": "160"
     },
@@ -250,7 +304,7 @@
         "min": 2100000,
         "max": 2450000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1VTeTloVYkYNMcnBHkbdrthm8d5BK1n-u",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/zanellatunning.jpeg",
       "Modelo": "2025",
       "Cilindrada": "110"
     },
@@ -268,8 +322,9 @@
         "min": 180000,
         "max": 200000
       },
-      "photo": "",
-      "RODADO": "26"
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/bicipaseo.jpeg",
+      "RODADO": "26",
+      "Modelo": "2025"
     },
     {
       "id": "item-15",
@@ -284,8 +339,9 @@
         "min": 350000,
         "max": 350000
       },
-      "photo": "",
-      "RODADO": "29"
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/bicirydertech.jpeg",
+      "RODADO": "29",
+      "Modelo": "2025"
     },
     {
       "id": "item-16",
@@ -300,8 +356,9 @@
         "min": 290000,
         "max": 290000
       },
-      "photo": "",
-      "RODADO": "29"
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/bicinordic.jpeg",
+      "RODADO": "29",
+      "Modelo": "2025"
     },
     {
       "id": "item-17",
@@ -476,7 +533,7 @@
         "min": 9500000,
         "max": 11500000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1ZfuiT_6RbT0Kah0ahirXFYpcjywxam-s",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/golf.jpeg",
       "Modelo": "2008",
       "Motor": "1.6",
       "NAFTA/GAS/GASOI": "Nafta"
@@ -494,7 +551,7 @@
         "min": 12500,
         "max": 12500
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1BjCjRt0mAAT6qEfANhKU97b--4U-zsSn",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/jeep.jpeg",
       "Modelo": "2012",
       "Motor": "2.4",
       "NAFTA/GAS/GASOI": "Nafta",
@@ -514,7 +571,7 @@
         "min": 8500000,
         "max": 8800000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1-8GpiA9-7HOl5h_GvboGjlI7I3Pv5aPz",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/corsa2005.jpeg",
       "Modelo": "2005",
       "Motor": "1.8"
     },
@@ -533,7 +590,7 @@
         "min": 9500000,
         "max": 12000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1-TqJ8jkHsZsItINUh-1JrNVeO5kXL6p0",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/207.jpeg",
       "Modelo": "2011",
       "Motor": "1.6",
       "NAFTA/GAS/GASOI": "Nafta"
@@ -552,7 +609,7 @@
         "min": 8500000,
         "max": 8800000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1oIa_hB0iCcEcWhHmqDfoq0qUnnWUbepy",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/corsa2008.jpeg",
       "Modelo": "2008",
       "Motor": "1.8",
       "NAFTA/GAS/GASOI": "Nafta/GAS"
@@ -591,7 +648,7 @@
         "min": 4200000,
         "max": 5000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1M0o3YneYZvzJdwZ6_rpMWwgIoXxRCq_0",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/golf%20gl.jpeg",
       "Modelo": "1996",
       "Motor": "1.8"
     },
@@ -610,7 +667,7 @@
         "min": 4200000,
         "max": 5000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1WALswQvdAlDLh2ZM0ve6XsBzL0M0tvaM",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/polo.jpeg",
       "Modelo": "1997",
       "Motor": "1.6"
     },
@@ -629,7 +686,7 @@
         "min": 4200000,
         "max": 5000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1EcMQK8mPXpXb7HjIf4KsXj54X3Cm-wDZ",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/ford%20escort%20(1).jpeg",
       "Modelo": "2001",
       "Motor": "1.6",
       "NAFTA/GAS/GASOI": "Nafta"
@@ -648,7 +705,7 @@
         "min": 11500000,
         "max": 12500000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1jdAy0jkr2V4DndVMwEsetNJ_xpQaK0mM",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/agile.jpeg",
       "Modelo": "2011",
       "Motor": "1.4",
       "NAFTA/GAS/GASOI": "Nafta"
@@ -667,7 +724,7 @@
         "min": 3500000,
         "max": 4500000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1lo4ix0ROTvy1iFfFtJUWNsHjNDmO8Ci0",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/fordscortrural.jpeg",
       "Modelo": "1999",
       "Motor": "1.8"
     }
