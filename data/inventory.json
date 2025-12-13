@@ -3,6 +3,24 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1765635419854",
+      "name": "Bicicleta RAZEL",
+      "category": "Bicicletas",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/BICI%20RAZIL%20(1).jpeg",
+      "price": {
+        "raw": "500.000-380.000",
+        "currency": "ARS",
+        "values": [
+          500000,
+          380000
+        ],
+        "min": 380000,
+        "max": 500000
+      },
+      "Modelo": "2025",
+      "Extra": "29"
+    },
+    {
       "id": "item-1765632066548",
       "name": "Corven TRIAX",
       "category": "Motos 0km",
