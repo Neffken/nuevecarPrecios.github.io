@@ -6,7 +6,7 @@
       "id": "item-1765561817926",
       "name": "Bicicleta Gravity",
       "category": "Bicicletas",
-      "photo": "/assets/img/bicicletagravity.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/bicicletagravity.jpeg",
       "price": {
         "raw": "400.000",
         "currency": "ARS",
@@ -34,7 +34,7 @@
         "min": 1700000,
         "max": 2000000
       },
-      "photo": "/assets/img/keller.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/keller.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -71,7 +71,7 @@
         "min": 1800000,
         "max": 2000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1JreSF0T73VcaWche1xWRP0qkdCVh8pUI",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/mondialzb.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -91,7 +91,7 @@
         "min": 2900000,
         "max": 4200000
       },
-      "photo": "/assets/img/zanellazt.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/zanellazt.jpeg",
       "Cilindrada": "150",
       "Modelo": "2025"
     },
@@ -109,7 +109,7 @@
         "min": 4800000,
         "max": 5200000
       },
-      "photo": "/assets/img/beta.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/beta.jpeg",
       "Cilindrada": "150",
       "Modelo": "2025"
     },
@@ -127,7 +127,7 @@
         "min": 2400000,
         "max": 2800000
       },
-      "photo": "/assets/img/mondial.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/mondial.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -144,7 +144,7 @@
         "min": 3150000,
         "max": 3150000
       },
-      "photo": "/assets/img/gilerasmashfull.jpeg",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/gilerasmashfull.jpeg",
       "Cilindrada": "110",
       "Modelo": "2025"
     },
@@ -572,7 +572,7 @@
         "min": 4200000,
         "max": 5000000
       },
-      "photo": "https://drive.google.com/uc?export=view&id=1qgyOPSl0sZfLhL4SrI_FaHWyJR2Agp15",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/fiatuno.jpeg",
       "Modelo": "1998",
       "Motor": "1.4"
     },
