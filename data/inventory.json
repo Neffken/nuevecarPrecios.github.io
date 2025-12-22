@@ -3,6 +3,24 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1766437785038",
+      "name": "Gilera Smash 125",
+      "category": "Motos usadas",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/gilerasmash125.jpeg",
+      "price": {
+        "raw": "3.300.000-3.100.000",
+        "currency": "ARS",
+        "values": [
+          3300000,
+          3100000
+        ],
+        "min": 3100000,
+        "max": 3300000
+      },
+      "Modelo": "2025",
+      "Extra": "125"
+    },
+    {
       "id": "item-1766437371661",
       "name": "Bicicleta TopMega(niños)",
       "category": "Bicicletas",
