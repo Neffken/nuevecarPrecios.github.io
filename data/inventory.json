@@ -3,6 +3,72 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1766437371661",
+      "name": "Bicicleta TopMega(niños)",
+      "category": "Bicicletas",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/topmegamujer.jpeg",
+      "price": {
+        "raw": "380.000",
+        "currency": "ARS",
+        "values": [
+          380000
+        ],
+        "min": 380000,
+        "max": 380000
+      },
+      "Modelo": "2025",
+      "Extra": "Rodado 20"
+    },
+    {
+      "id": "item-1766437238939",
+      "name": "Bicicleta Topmega(nilños)",
+      "category": "Bicicletas",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/Bicicletatopmegani%C3%B1o.jpeg",
+      "price": {
+        "raw": "380.000",
+        "currency": "ARS",
+        "values": [
+          380000
+        ],
+        "min": 380000,
+        "max": 380000
+      },
+      "Modelo": "2025",
+      "Extra": "Rodado 20"
+    },
+    {
+      "id": "item-1766437010530",
+      "name": "Bicicleta Top mega(niños)",
+      "category": "Bicicletas",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/WhatsApp%20Image%202025-12-22%20at%205.55.56%20PM.jpeg",
+      "price": {
+        "raw": "380.000",
+        "currency": "ARS",
+        "values": [
+          380000
+        ],
+        "min": 380000,
+        "max": 380000
+      },
+      "Modelo": "2025",
+      "Extra": "Rodado 20"
+    },
+    {
+      "id": "item-1765889971216",
+      "name": "casco",
+      "category": "Cascos",
+      "photo": "https://raw.githubusercontent.com/benjamayapoceiro-bot/fotos/refs/heads/main/WhatsApp%20Image%202025-12-15%20at%2016.54.27%20(1).jpeg",
+      "price": {
+        "raw": "212131",
+        "currency": "ARS",
+        "values": [
+          212131
+        ],
+        "min": 212131,
+        "max": 212131
+      }
+    },
+    {
       "id": "item-1765635419854",
       "name": "Bicicleta RAZEL",
       "category": "Bicicletas",
