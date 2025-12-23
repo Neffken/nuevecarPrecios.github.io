@@ -3,6 +3,23 @@
   "generated_from": "Inventario Precios .xlsx",
   "items": [
     {
+      "id": "item-1766530495956",
+      "name": "Chevrolet Sonic LTZ",
+      "category": "Autos usados",
+      "photo": "https://raw.githubusercontent.com/Neffken/nuevecarPrecios.github.io/refs/heads/main/assets/img/chevroletsonicltz.jpeg",
+      "price": {
+        "raw": "13.000.000",
+        "currency": "ARS",
+        "values": [
+          13000000
+        ],
+        "min": 13000000,
+        "max": 13000000
+      },
+      "Modelo": "2012",
+      "Extra": "1.6"
+    },
+    {
       "id": "item-1766437785038",
       "name": "Gilera Smash 125",
       "category": "Motos usadas",
